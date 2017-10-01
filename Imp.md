@@ -61,3 +61,9 @@ Collections.sort(Database.entryList, new Comparator<MyObject>{
     }
 });
 ```
+
+
+- ***number of bits in int***
+```java
+Integer.bitCount()
+```
